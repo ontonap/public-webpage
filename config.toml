@@ -1,4 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "https://lotus.nprod.net/"
 languageCode = "en-us"
 theme = "hugo-theme-learn"
 title = "My New Hugo Site"
+publishDir = "docs"
