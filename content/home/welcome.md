@@ -7,7 +7,7 @@ widget_id: recent-posts
 headless: true
 weight: 10
 title: LOTUS Project
-hero_media: welcome.jpg
+hero_media: lotus_vecto.jpg
 subtitle: ""
 design:
   columns: "1"
