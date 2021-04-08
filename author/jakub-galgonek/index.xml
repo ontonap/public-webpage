@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jakub Galgonek | LOTUS Project</title>
+    <link>https://lotus.nprod.net/author/jakub-galgonek/</link>
+      <atom:link href="https://lotus.nprod.net/author/jakub-galgonek/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jakub Galgonek</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://lotus.nprod.net/author/jakub-galgonek/avatar_hua43ad9b83232331aa377122d988d245a_13815_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Jakub Galgonek</title>
+      <link>https://lotus.nprod.net/author/jakub-galgonek/</link>
+    </image>
+    
+  </channel>
+</rss>

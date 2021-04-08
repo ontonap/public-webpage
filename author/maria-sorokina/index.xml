@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maria Sorokina | LOTUS Project</title>
+    <link>https://lotus.nprod.net/author/maria-sorokina/</link>
+      <atom:link href="https://lotus.nprod.net/author/maria-sorokina/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maria Sorokina</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://lotus.nprod.net/author/maria-sorokina/avatar_hu1c8309d3559032253539fd0a9f65df00_22135_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Maria Sorokina</title>
+      <link>https://lotus.nprod.net/author/maria-sorokina/</link>
+    </image>
+    
+  </channel>
+</rss>
