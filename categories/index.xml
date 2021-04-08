@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Categories on LOTUS</title><link>https://lotus.nprod.net/categories/</link><description>Recent content in Categories on LOTUS</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://lotus.nprod.net/categories/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | LOTUS Project</title>
+    <link>https://lotus.nprod.net/categories/</link>
+      <atom:link href="https://lotus.nprod.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://lotus.nprod.net/images/icon_hu0d615a66adfbf5f61785fe69b2ad9257_74451_512x512_fill_lanczos_center_2.png</url>
+      <title>Categories</title>
+      <link>https://lotus.nprod.net/categories/</link>
+    </image>
+    
+  </channel>
+</rss>
