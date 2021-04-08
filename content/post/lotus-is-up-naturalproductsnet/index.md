@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Lotus Is Up at Natural at naturalproducts.net"
+title: "Lotus Is Up at naturalproducts.net, have a look !"
 subtitle: ""
 summary: ""
-authors: []
+authors: [pma]
 tags: []
 categories: []
 date: 2021-02-16T16:50:33+01:00
