@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Wowchemy's Research Group Template for [Hugo](https://github.com/gohugoio/hugo)
 
 The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
@@ -35,3 +36,6 @@ Please replace the demo images with your own.
 
 
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/starter-research-group/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+=======
+# prod-page
+>>>>>>> 19a4b65f1cbbbba2b660dd43203739a80dddf820
