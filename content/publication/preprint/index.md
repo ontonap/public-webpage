@@ -1,9 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "Open Natural Products Research: Curation and Dissemination of Biological Occurrences of Chemical Structures through Wikidata"
 authors:
 - admin
+- Admin
+- Adriano Rutz
+- Jonathan Bisson
 date: "2019-04-07T00:00:00Z"
-doi: ""
+doi: "10.1101/2021.02.28.433265"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -15,10 +18,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Open Natural Products Research: Curation and Dissemination of Biological Occurrences of Chemical Structures through Wikidata"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: As contemporary bioinformatic and chemoinformatic capabilities are reshaping natural products research, major benefits could result from an open database of referenced structure-organism pairs. Those pairs allow the identification of distinct molecular structures found as components of heterogeneous chemical matrices originating from living organisms. Current databases with such information suffer from paywall restrictions, limited taxonomic scope, poorly standardized fields, and lack of interoperability. To ensure data quality, references to the work that describes the structure-organism relationship are mandatory. To fill this void, we collected and curated a set of structure-organism pairs from publicly available natural products databases to yield LOTUS (naturaL prOducTs occUrrences databaSe), which contains over 500,000 curated and referenced structure-organism pairs. All the programs developed for data collection, curation, and dissemination are publicly available. To provide unlimited access as well as standardized linking to other resources, LOTUS data is both hosted on Wikidata and regularly mirrored on https://lotus.naturalproducts.net. The diffusion of these referenced structure-organism pairs within the Wikidata framework addresses many of the limitations of currently-available databases and facilitates linkage to existing biological and chemical data resources. This resource represents an important advancement in the design and deployment of a comprehensive and collaborative natural products knowledge base.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -30,7 +33,7 @@ featured: false
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://doi.org/10.1101/2021.02.28.433265
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
