@@ -4,7 +4,7 @@
 title: "Otol Id Accepted !"
 subtitle: ""
 summary: ""
-authors: []
+authors: [pma]
 tags: []
 categories: []
 date: 2021-02-16T16:14:19+01:00
@@ -29,7 +29,7 @@ projects: []
 ---
 
 
-After a short time and a proposal by Adriano (see how to link people here), a new property, Open Tree of Life ID (P9157), has been acepted on Wikidata. 🔥
+After a short time and a proposal by {{% mention "adriano" %}}, a new property, Open Tree of Life ID (P9157), has been acepted on Wikidata. 🔥
 
 <!--more-->
 
