@@ -11,6 +11,18 @@
     <loc>https://lotus.nprod.net/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://lotus.nprod.net/publication-type/3/</loc>
+    <lastmod>2021-04-08T23:03:02+02:00</lastmod>
+  </url><url>
+    <loc>https://lotus.nprod.net/publication/lotus-preprint/</loc>
+    <lastmod>2021-04-08T23:03:02+02:00</lastmod>
+  </url><url>
+    <loc>https://lotus.nprod.net/publication_types/</loc>
+    <lastmod>2021-04-08T23:03:02+02:00</lastmod>
+  </url><url>
+    <loc>https://lotus.nprod.net/publication/</loc>
+    <lastmod>2021-04-08T23:03:02+02:00</lastmod>
+  </url><url>
     <loc>https://lotus.nprod.net/post/</loc>
     <lastmod>2021-02-16T16:50:33+01:00</lastmod>
   </url><url>
@@ -32,22 +44,19 @@
     <loc>https://lotus.nprod.net/post/20-12-01-wowchemy-prize/</loc>
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lotus.nprod.net/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lotus.nprod.net/publication/preprint/</loc>
+    <loc>https://lotus.nprod.net/author/adriano-rutz/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lotus.nprod.net/authors/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://lotus.nprod.net/author/jonathan-bisson/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://lotus.nprod.net/author/nelson-bighetti/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://lotus.nprod.net/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lotus.nprod.net/publication/</loc>
+    <loc>https://lotus.nprod.net/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lotus.nprod.net/tag/source-themes/</loc>
@@ -64,12 +73,6 @@
   </url><url>
     <loc>https://lotus.nprod.net/author/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lotus.nprod.net/author/adriano-rutz/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://lotus.nprod.net/author/jonathan-bisson/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://lotus.nprod.net/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>

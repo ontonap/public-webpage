@@ -5,7 +5,7 @@
     <link>https://lotus.nprod.net/publication/</link>
       <atom:link href="https://lotus.nprod.net/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Apr 2021 23:03:02 +0200</lastBuildDate>
     <image>
       <url>https://lotus.nprod.net/images/icon_hu0d615a66adfbf5f61785fe69b2ad9257_74451_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
+      <title>Lotus Preprint</title>
+      <link>https://lotus.nprod.net/publication/lotus-preprint/</link>
+      <pubDate>Thu, 08 Apr 2021 23:03:02 +0200</pubDate>
+      <guid>https://lotus.nprod.net/publication/lotus-preprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Natural Products Research: Curation and Dissemination of Biological Occurrences of Chemical Structures through Wikidata</title>
       <link>https://lotus.nprod.net/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       <guid>https://lotus.nprod.net/publication/preprint/</guid>
