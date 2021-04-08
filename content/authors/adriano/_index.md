@@ -14,7 +14,7 @@ role: PhD.
 
 # Organizations/Affiliations
 organizations:
-- name: University of Genevaaaaaaaaa
+- name: University of Geneva / La vieille ville tavu 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
