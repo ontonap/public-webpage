@@ -1,10 +1,13 @@
 ---
 title: "Open Natural Products Research: Curation and Dissemination of Biological Occurrences of Chemical Structures through Wikidata"
 authors:
-- admin
-- Admin
 - Adriano Rutz
 - Jonathan Bisson
+- maria
+- pma
+- jakub
+- egon
+- guido
 date: "2019-04-07T00:00:00Z"
 doi: "10.1101/2021.02.28.433265"
 
