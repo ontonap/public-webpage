@@ -2,8 +2,8 @@
   "name": "LOTUS Project",
   "short_name": "LOTUS Project",
   "lang": "en-us",
-  "theme_color": "hsl(339, 90%, 68%)",
-  "background_color": "hsl(339, 90%, 68%)",
+  "theme_color": "#3f51b5",
+  "background_color": "#3f51b5",
   "icons": [{
     "src": "/images/icon_hu0d615a66adfbf5f61785fe69b2ad9257_74451_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
