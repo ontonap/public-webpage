@@ -24,7 +24,7 @@ publication_short: ""
 abstract: As contemporary bioinformatic and chemoinformatic capabilities are reshaping natural products research, major benefits could result from an open database of referenced structure-organism pairs. Those pairs allow the identification of distinct molecular structures found as components of heterogeneous chemical matrices originating from living organisms. Current databases with such information suffer from paywall restrictions, limited taxonomic scope, poorly standardized fields, and lack of interoperability. To ensure data quality, references to the work that describes the structure-organism relationship are mandatory. To fill this void, we collected and curated a set of structure-organism pairs from publicly available natural products databases to yield LOTUS (naturaL prOducTs occUrrences databaSe), which contains over 500,000 curated and referenced structure-organism pairs. All the programs developed for data collection, curation, and dissemination are publicly available. To provide unlimited access as well as standardized linking to other resources, LOTUS data is both hosted on Wikidata and regularly mirrored on https://lotus.naturalproducts.net. The diffusion of these referenced structure-organism pairs within the Wikidata framework addresses many of the limitations of currently-available databases and facilitates linkage to existing biological and chemical data resources. This resource represents an important advancement in the design and deployment of a comprehensive and collaborative natural products knowledge base.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: LOTUS, the first Free and open natural products occurences database.
 
 tags:
 - Source Themes
@@ -34,8 +34,8 @@ links:
 - name: Custom Link
   url: http://example.org
 url_pdf: https://doi.org/10.1101/2021.02.28.433265
-url_code: '#'
-url_dataset: '#'
+url_code: 'https://gitlab.com/lotus7'
+url_dataset: 'https://osf.io/hgjdb/'
 url_poster: '#'
 url_project: ''
 url_slides: ''
@@ -45,7 +45,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  filename: graphicalabstract.png
+  filename: featured.png
   caption: 'Graphical Abstract'
   focal_point: ""
   preview_only: false
