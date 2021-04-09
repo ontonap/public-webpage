@@ -39,6 +39,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: orcid
+  icon_pack: fas
+  link: 'https://orcid.org/0000-0003-0443-9902'
 - icon: envelope
   icon_pack: fas
   link: 'mailto:adriano.rutz@unige.ch'
