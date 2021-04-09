@@ -33,7 +33,7 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: orcid
-  icon_pack: fas
+  icon_pack: ai
   link: 'https://orcid.org/0000-0003-1022-4326'
 - icon: envelope
   icon_pack: fas
