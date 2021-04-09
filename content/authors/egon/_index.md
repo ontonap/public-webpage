@@ -34,7 +34,7 @@ education:
 
 social:
 - icon: orcid
-  icon_pack: fas
+  icon_pack: ai
   link: 'https://orcid.org/0000-0001-7542-0286'
 - icon: envelope
   icon_pack: fas
