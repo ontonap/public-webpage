@@ -33,6 +33,9 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 social:
+- icon: orcid
+  icon_pack: fas
+  link: 'https://orcid.org/0000-0001-7542-0286'
 - icon: envelope
   icon_pack: fas
   link: 'mailto:egon​.​willighagen​@​​maastricht​university​.​nl'
