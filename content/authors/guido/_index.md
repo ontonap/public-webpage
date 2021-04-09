@@ -18,24 +18,14 @@ organizations:
   url: "https://pharmacy.uic.edu/profiles/gfp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: ...
+bio: TODO
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- TODO
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - TODO
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,4 +60,4 @@ user_groups:
 
 ---
 
-Lorem ipsum 
+TODO
