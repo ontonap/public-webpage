@@ -21,11 +21,11 @@ organizations:
 bio: Open scientist teaching and doing research at Maastricht University. 
 
 interests:
-- ...
+- TODO
 
 education:
   courses:
-  - ...
+  - TODO
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -61,4 +61,4 @@ user_groups:
 
 ---
 
-Lorem ipsum
+TODO
