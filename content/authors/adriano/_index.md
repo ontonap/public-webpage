@@ -40,7 +40,7 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: orcid
-  icon_pack: fab
+  icon_pack: ai
   link: 'https://orcid.org/0000-0003-0443-9902'
 - icon: envelope
   icon_pack: fas
