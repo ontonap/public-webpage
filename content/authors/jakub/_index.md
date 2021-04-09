@@ -33,6 +33,9 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 social:
+- icon: orcid
+  icon_pack: ai
+  link: 'https://orcid.org/0000-0002-7038-544X'
 - icon: envelope
   icon_pack: fas
   link: 'mailto:jakub.galgonek@uochb.cas.cz'
