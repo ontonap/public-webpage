@@ -14,29 +14,18 @@ role: Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: University of Chicago
-  url: ""
+- name: Institute for Inorganic and Analytical Chemistry, Friedrich-Schiller-University Jena
+  url: "https://www.chemgeo.uni-jena.de/en/faculty/institutes+and+research+centres/institute+for+inorganic+and+analytical+chemistry"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: TODO
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-- and also this 
+- TODO
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: TODO
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,18 +33,21 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 social:
+- icon: orcid
+  icon_pack: ai
+  link: 'https://orcid.org/0000-0001-9359-7149'
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:bjo@uic.edu'
+  link: 'mailto:maria.sorokina@uni-jena.de'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/cenaptech
+  link: https://twitter.com/ms_sorok
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=W5Qd8PkAAAAJ
+  link: https://scholar.google.com/citations?user=s2FngbAAAAAJ&hl=fr&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/bjonnh
+  link: https://github.com/mSorok
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -63,7 +55,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "bjo@uic.edu"
+email: "maria.sorokina@uni-jena.de"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -72,6 +64,4 @@ user_groups:
 
 ---
 
-Jo is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Maria is ...
