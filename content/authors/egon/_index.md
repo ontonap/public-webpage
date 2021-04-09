@@ -61,4 +61,4 @@ user_groups:
 
 ---
 
-...
+Lorem ipsum
