@@ -25,7 +25,7 @@ interests:
 
 education:
   courses:
-  - TODO
+  - course: TODO
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -61,4 +61,4 @@ user_groups:
 
 ---
 
-TODO
+Egon is ...
