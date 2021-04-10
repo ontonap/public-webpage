@@ -27,9 +27,7 @@ interests:
 
 education:
   courses:
-  - course: MSc in Pharmaceutical Sciences
-    institution: University of Geneva
-    year: 2016
+  - course: TODO
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
