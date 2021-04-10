@@ -27,7 +27,9 @@ interests:
 
 education:
   courses:
-  - course: TODO
+  - course: MSc in Pharmaceutical Sciences
+    institution: University of Geneva
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -50,11 +52,12 @@ social:
   icon_pack: fab
   link: https://github.com/Adafede
 - icon: researchgate
-  icon_pack: ai
+  icon_pack: fab
   link: https://www.researchgate.net/profile/Adriano-Rutz-2
 - icon: gitlab
   icon_pack: fab
   link: https://gitlab.com/Adafede
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,4 +74,4 @@ user_groups:
 
 ---
 
-Adriano is ...
+Adriano thinks that bitter is better.
