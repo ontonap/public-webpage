@@ -6,7 +6,7 @@ title: Jean-Luc Wolfender
 superuser: false
 
 # Role/position
-role: Researcher
+role: Pr.
 
 # Organizations/Affiliations
 organizations:
