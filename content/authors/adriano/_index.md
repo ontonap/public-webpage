@@ -30,6 +30,9 @@ education:
   - course: MSc in Pharmaceutical Sciences
     institution: University of Geneva
     year: 2016
+  - course: BSc in Pharmaceutical Sciences
+    institution: University of Geneva
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
