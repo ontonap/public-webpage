@@ -37,6 +37,10 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/ArnaudGaudry
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Arnaud-Gaudry
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -55,4 +59,4 @@ user_groups:
 - Researchers
 ---
 
-Arnaud is ...
+- Arnaud ...
