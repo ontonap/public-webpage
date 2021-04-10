@@ -44,7 +44,7 @@ social:
   link: https://twitter.com/ms_sorok
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=s2FngbAAAAAJ&hl=fr&oi=ao
+  link: https://scholar.google.com/citations?user=s2FngbAAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/mSorok
