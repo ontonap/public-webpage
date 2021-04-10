@@ -74,4 +74,4 @@ user_groups:
 
 ---
 
-Adriano thinks that bitter is better.
+- Adriano thinks that bitter is better.
