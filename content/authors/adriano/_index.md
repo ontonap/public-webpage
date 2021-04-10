@@ -52,7 +52,7 @@ social:
   icon_pack: fab
   link: https://github.com/Adafede
 - icon: researchgate
-  icon_pack: fab
+  icon_pack: ai
   link: https://www.researchgate.net/profile/Adriano-Rutz-2
 - icon: gitlab
   icon_pack: fab
