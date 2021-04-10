@@ -5,35 +5,12 @@
     <link>https://lotus.nprod.net/author/jonathan-bisson/</link>
       <atom:link href="https://lotus.nprod.net/author/jonathan-bisson/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonathan Bisson</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://lotus.nprod.net/images/icon_hu0d615a66adfbf5f61785fe69b2ad9257_74451_512x512_fill_lanczos_center_2.png</url>
+      <url>https://lotus.nprod.net/author/jonathan-bisson/avatar_hu39d4fe747a9f9879c7a03eeb7f1a0a01_33717_270x270_fill_lanczos_center_2.png</url>
       <title>Jonathan Bisson</title>
       <link>https://lotus.nprod.net/author/jonathan-bisson/</link>
     </image>
-    
-    <item>
-      <title>Open Natural Products Research: Curation and Dissemination of Biological Occurrences of Chemical Structures through Wikidata</title>
-      <link>https://lotus.nprod.net/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://lotus.nprod.net/publication/preprint/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Toward Open Science in Natural Products Research: Curation and Dissemination of Natural Products Data in Wikidata</title>
-      <link>https://lotus.nprod.net/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://lotus.nprod.net/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>
