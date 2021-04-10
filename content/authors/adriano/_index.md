@@ -56,7 +56,7 @@ social:
   link: https://github.com/Adafede
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/Pierre-Marie-Allard
+  link: https://www.researchgate.net/profile/Adriano-Rutz-2
 - icon: gitlab
   icon_pack: fab
   link: https://gitlab.com/Adafede
