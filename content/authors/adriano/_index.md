@@ -18,7 +18,7 @@ organizations:
   url: "https://ispso.unige.ch/ispso/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Adriano Rutz is a pharmacist. He is now developing advanced LC-MS-based metabolite profiling methods and tools to assess phytochemical and sensorial profiles of complex plant extracts.
+bio: Bitter is better.
 
 interests:
 - Phytochemistry
@@ -28,9 +28,6 @@ interests:
 education:
   courses:
   - course: MSc in Pharmaceutical Sciences
-    institution: University of Geneva
-    year: 2014
-  - course: BSc in Artificial Intelligence
     institution: University of Geneva
     year: 2016
 
