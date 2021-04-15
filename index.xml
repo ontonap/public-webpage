@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LOTUS Project</title>
+    <title>The LOTUS Initiative</title>
     <link>https://lotus.nprod.net/</link>
       <atom:link href="https://lotus.nprod.net/index.xml" rel="self" type="application/rss+xml" />
-    <description>LOTUS Project</description>
+    <description>The LOTUS Initiative</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lotus.nprod.net/images/icon_hu0d615a66adfbf5f61785fe69b2ad9257_74451_512x512_fill_lanczos_center_2.png</url>
-      <title>LOTUS Project</title>
+      <title>The LOTUS Initiative</title>
       <link>https://lotus.nprod.net/</link>
     </image>
     
