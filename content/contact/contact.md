@@ -29,4 +29,4 @@ design:
   columns: '1'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+The LOTUS Initiative is by definition a collaborative one. Please feel free to get involved and participate. This can be done directly by contributing or editing data on Wikidata. If you have any questions or propositions we would be happy to be in touch with you. Please write us an email or join our Telegram channel https://t.me/the_lotus_initiative !
