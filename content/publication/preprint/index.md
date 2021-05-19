@@ -41,8 +41,8 @@ tags:
 featured: false
 
 links:
-- name: Custom Link
-  url: http://example.org
+# - name: Custom Link
+#   url: http://example.org
 url_pdf: https://doi.org/10.1101/2021.02.28.433265
 url_code: 'https://gitlab.com/lotus7'
 url_dataset: 'https://osf.io/hgjdb/'
