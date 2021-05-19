@@ -5,12 +5,21 @@
     <link>https://lotus.nprod.net/author/ralf-stephan/</link>
       <atom:link href="https://lotus.nprod.net/author/ralf-stephan/index.xml" rel="self" type="application/rss+xml" />
     <description>Ralf Stephan</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://lotus.nprod.net/author/ralf-stephan/avatar_hu256f764b29cb6c5793cbda7dfeacc0f5_182408_270x270_fill_lanczos_center_2.png</url>
       <title>Ralf Stephan</title>
       <link>https://lotus.nprod.net/author/ralf-stephan/</link>
     </image>
+    
+    <item>
+      <title>Open Natural Products Research: Curation and Dissemination of Biological Occurrences of Chemical Structures through Wikidata</title>
+      <link>https://lotus.nprod.net/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://lotus.nprod.net/publication/preprint/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
