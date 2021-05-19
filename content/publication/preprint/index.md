@@ -46,11 +46,11 @@ links:
 url_pdf: https://doi.org/10.1101/2021.02.28.433265
 url_code: 'https://gitlab.com/lotus7'
 url_dataset: 'https://osf.io/hgjdb/'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+# url_poster: '#'
+# url_project: ''
+# url_slides: ''
+# url_source: '#'
+# url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
