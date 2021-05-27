@@ -37,4 +37,4 @@ The embedding is far from optimal. Have a look and explore the LOTUS tmap direct
 
 Tmap allows the organization and visualization of huge sets of data of diverse type. More details on the library here <https://tmap.gdb.tools/>. These tools have been developped at the Reymond research group <https://gdb.unibe.ch/>
 
-<embed src="https://metabo-store.nprod.net/tmap/?index.html#" style="width:1600px; height: 800px;">
+<embed src="https://metabo-store.nprod.net/tmap/?index.html#" style="width:800px; height: 800px;">
