@@ -33,8 +33,8 @@ Have a look at the LOTUS tmap display directly here <https://metabo-store.nprod.
 
 <!--more-->
 
-The embedding is far from optimal. Have a look and explore the LOTUS tmap directly at this adress <https://metabo-store.nprod.net/tmap/?index.html#>
+The best way to explore interactively the tmap is to have a look directly at this adress <https://metabo-store.nprod.net/tmap/?index.html#>
 
 Tmap allows the organization and visualization of huge sets of data of diverse type. More details on the library here <https://tmap.gdb.tools/>. These tools have been developped at the Reymond research group <https://gdb.unibe.ch/>
 
-<embed src="https://metabo-store.nprod.net/tmap/?index.html#" style="width:800px; height: 800px;">
+<embed src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Lotus_initiative_1_biologically_interpreted_chemical_tree.svg/563px-Lotus_initiative_1_biologically_interpreted_chemical_tree.svg.png">
