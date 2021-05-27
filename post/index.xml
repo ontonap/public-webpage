@@ -5,12 +5,23 @@
     <link>https://lotus.nprod.net/post/</link>
       <atom:link href="https://lotus.nprod.net/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 Feb 2021 16:50:33 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 May 2021 11:02:46 +0200</lastBuildDate>
     <image>
       <url>https://lotus.nprod.net/images/icon_hu0d615a66adfbf5f61785fe69b2ad9257_74451_512x512_fill_lanczos_center_2.png</url>
       <title>Latest News</title>
       <link>https://lotus.nprod.net/post/</link>
     </image>
+    
+    <item>
+      <title>Lotus Tmap</title>
+      <link>https://lotus.nprod.net/post/lotus-tmap/</link>
+      <pubDate>Thu, 27 May 2021 11:02:46 +0200</pubDate>
+      <guid>https://lotus.nprod.net/post/lotus-tmap/</guid>
+      <description>&lt;p&gt;Have a look at the LOTUS tmap display directly here &lt;a href=&#34;https://metabo-store.nprod.net/tmap/?index.html#&#34;&gt;https://metabo-store.nprod.net/tmap/?index.html#&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The embedding is far from optimal. Have a look and explore the LOTUS tmap directly at this adress &lt;a href=&#34;https://metabo-store.nprod.net/tmap/?index.html#&#34;&gt;https://metabo-store.nprod.net/tmap/?index.html#&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Tmap allows the organization and visualization of huge sets of data of diverse type. More details on the library here &lt;a href=&#34;https://tmap.gdb.tools/&#34;&gt;https://tmap.gdb.tools/&lt;/a&gt;. These tools have been developped at the Reymond research group &lt;a href=&#34;https://gdb.unibe.ch/&#34;&gt;https://gdb.unibe.ch/&lt;/a&gt;&lt;/p&gt;
+&lt;embed src=&#34;https://metabo-store.nprod.net/tmap/?index.html#&#34; style=&#34;width:1600px; height: 800px;&#34;&gt;</description>
+    </item>
     
     <item>
       <title>Lotus Is Up at naturalproducts.net, have a look !</title>
