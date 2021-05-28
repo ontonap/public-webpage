@@ -33,9 +33,9 @@ education:
   - course: PhD Interface in Chemistry-Biology
     institution: University of Bordeaux
     year: 2012
-- course: Master Biochemistry interface Chemistry-Biology-Physics 
-  institution: University of Bordeaux
-  year: 2009
+  - course: Master Biochemistry interface Chemistry-Biology-Physics 
+    institution: University of Bordeaux
+    year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
