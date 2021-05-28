@@ -50,7 +50,7 @@ social:
   icon_pack: fas
   link: 'mailto:bjonnh-lotus@bjonnh.net'
 - icon: linkedin
-  icon_pack: fas
+  icon_pack: fab
   link: https://www.linkedin.com/in/jonathanbisson/
 - icon: twitter
   icon_pack: fab
