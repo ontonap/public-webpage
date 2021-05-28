@@ -29,11 +29,9 @@ projects: []
 ---
 
 
-Have a look at the LOTUS tmap display directly here <https://metabo-store.nprod.net/tmap/?index.html#>
+Have a look at the LOTUS tmap display directly here <https://metabo-store.nprod.net/tmap/>
 
 <!--more-->
-
-The best way to explore interactively the tmap is to have a look directly at this adress <https://metabo-store.nprod.net/tmap/?index.html#>
 
 Tmap allows the organization and visualization of huge sets of data of diverse type. More details on the library here <https://tmap.gdb.tools/>. These tools have been developped at the Reymond research group <https://gdb.unibe.ch/>
 
