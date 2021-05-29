@@ -15,7 +15,7 @@ role: Researcher
 # Organizations/Affiliations
 organizations:
 - name: University of Illinois at Chicago
-  url: "https://pharmacy.uic.edu/profiles/gfp/"
+  url: "https://pharmacognosy.pharmacy.uic.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: TODO
@@ -38,7 +38,7 @@ social:
   link: 'https://orcid.org/0000-0002-7114-8921'
 - icon: youtube
   icon_pack: fas
-  link: 'https://www.youtube.com/channel/UCjfJ98bVToUPop9w5oBNLdA'
+  link: 'https://www.youtube.com/user/TheSonofdonk/videos'
 - icon: envelope
   icon_pack: fas
   link: 'mailto:ucayali@uic.edu'
